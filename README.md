@@ -12,4 +12,4 @@ A simple and common game project in Javascript
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AmirHossain-hub/PJS-Pig-Games.git
+   git clone https://github.com/AmirHossain-hub/JS-Pig-Games.git
