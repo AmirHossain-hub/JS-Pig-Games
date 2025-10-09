@@ -1,2 +1,15 @@
-# JS-Pig-Games
-I've just trained with JS and built a common training project
+# 💻 JS 
+
+A simple and common game project in Javascript 
+
+## 🧠 Features
+- Playing famous Pig Games in it
+
+## 🛠️ Technologies
+- Javascript
+
+## ⚙️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AmirHossain-hub/PJS-Pig-Games.git
